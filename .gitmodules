@@ -17,3 +17,9 @@
 [submodule "components/coap/libcoap"]
 	path = components/coap/libcoap
 	url = ../../obgm/libcoap.git
+[submodule "components/ESP8266-RTOS-FONTS"]
+	path = components/ESP8266-RTOS-FONTS
+	url = https://github.com/Fonger/ESP8266-RTOS-FONTS.git
+[submodule "components/ESP8266-RTOS-SSD1306"]
+	path = components/ESP8266-RTOS-SSD1306
+	url = https://github.com/Fonger/ESP8266-RTOS-SSD1306.git
